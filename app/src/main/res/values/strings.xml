@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuessWH1</string>
+    <string name="please_enter_a_number_1_10">Please enter a number(1~10)</string>
+    <string name="ok">OK</string>
+    <string name="bigger">Bigger</string>
+    <string name="smaller">Smaller</string>
+    <string name="yes_you_got_it">Yes, you got it</string>
+    <string name="excellent_the_number_is">Excellent! The number is</string>
+    <string name="dialog_title">Message</string>
+    <string name="title_activity_material">MaterialActivity</string>
+    <string name="replay_game">Reply game</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+</resources>
