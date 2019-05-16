@@ -5,7 +5,7 @@
     <string name="dialog_title">提示訊息</string>
     <string name="excellent_the_number_is">超神的! 數字就是</string>
     <string name="ok">確認</string>
-    <string name="please_enter_a_number_1_10">請輸入數字</string>
+    <string name="please_enter_a_number">請輸入數字</string>
     <string name="smaller">小一點</string>
     <string name="yes_you_got_it">讚!猜對了</string>
     <string name="title_activity_material">猜數字</string>

@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         } else {
             AlertDialog.Builder(this)
                 .setTitle(getString(R.string.dialog_title))
-                .setMessage(getString(R.string.please_enter_a_number_1_10))
+                .setMessage(getString(R.string.please_enter_a_number))
                 .setPositiveButton(getString(R.string.ok),null)
                 .show()
         }
